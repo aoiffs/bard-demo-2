@@ -1,0 +1,218 @@
+= Acme Deploy Tool: Getting Started
+:toc:
+:sectnums:
+
+== Introduction
+
+The Acme Deploy Tool is a simple and easy to use command line tool that allows users to deploy applications to the Acme Cloud platform. It can be used by developers, system administrators and other users who want to deploy applications quickly.
+
+This guide will explain how to install the tool, configure it, create an application and deploy it.
+
+== Before you start
+
+Before you start you need to have the following things installed:
+
+* Acme Deploy Tool
+* An Acme Cloud account
+* A terminal
+* An application to deploy
+
+You should also make sure that you have access to the internet and that your computer is configured correctly.
+
+== Installing the tool
+
+The Acme Deploy Tool can be installed on Windows, Mac and Linux.
+
+To install the tool, download the latest version from the Acme website and run the installer.
+
+On Linux, you can also install it using the following command:
+
+## [source,bash]
+
+## curl https://downloads.acme.example/install.sh | bash
+
+After installing, check that it is working by running:
+
+## [source,bash]
+
+## acme --version
+
+You should see the version number.
+
+== Logging in
+
+Before deploying an application you need to login to Acme Cloud.
+
+## [source,bash]
+
+## acme login
+
+Enter your username and password when prompted.
+
+If you have forgotten your password, contact your administrator.
+
+== Creating an application
+
+To create an application, run the following command:
+
+## [source,bash]
+
+## acme create myapp
+
+This creates an application called `myapp`.
+
+You can then configure the application by editing the `acme.yml` file.
+
+## [source,yaml]
+
+name: myapp
+region: eu-west-1
+runtime: node
+-------------
+
+The region can be changed if you want to deploy somewhere else.
+
+== Deploying an application
+
+Once your application has been created, you can deploy it by running:
+
+## [source,bash]
+
+## acme deploy
+
+The application will be deployed automatically.
+
+Deployment usually takes a few minutes but this depends on the size of your application.
+
+When the deployment has finished, you can check the application by running:
+
+## [source,bash]
+
+## acme status
+
+== Updating an application
+
+If you make changes to your application, run the deploy command again.
+
+## [source,bash]
+
+## acme deploy
+
+You don't need to create the application again.
+
+== Configuration
+
+The `acme.yml` file contains configuration for your application.
+
+The following settings are available:
+
+[cols="1,2,1"]
+|===
+|Setting |Description |Default
+
+|name
+|The name of the application
+|myapp
+
+|region
+|The cloud region where the application is deployed
+|us-east-1
+
+|runtime
+|The programming language used by the application
+|node
+|===
+
+The region can be changed after the application has been deployed.
+
+For more information about configuration, see the Configuration Guide.
+
+== Troubleshooting
+
+=== The login command does not work
+
+If the login command doesn't work, make sure your username and password are correct.
+
+You can also try logging in again.
+
+## [source,bash]
+
+## acme login --force
+
+If this still doesn't work, restart your computer and try again.
+
+=== The deployment failed
+
+If deployment fails, check the error message in the terminal.
+
+You should also check that your application is configured correctly.
+
+Make sure the `acme.yml` file is in the root directory.
+
+=== The application is not available
+
+If the deployment succeeded but you cannot access the application, wait a few minutes and try again.
+
+Check the status with:
+
+## [source,bash]
+
+## acme status
+
+== Common commands
+
+The most common commands are listed below.
+
+[cols="1,2"]
+|===
+|Command |Description
+
+|`acme login`
+|Logs in to Acme Cloud
+
+|`acme create`
+|Creates a new application
+
+|`acme deploy`
+|Deploys an application
+
+|`acme status`
+|Shows the status of an application
+
+|`acme delete`
+|Deletes an application
+|===
+
+== Frequently asked questions
+
+=== How long does deployment take?
+
+Deployment usually takes a few minutes.
+
+=== Can I deploy multiple applications?
+
+Yes, you can deploy multiple applications using the same account.
+
+=== What operating systems are supported?
+
+Windows, Mac and Linux are supported.
+
+=== Is Acme Deploy Tool free?
+
+The Acme Deploy Tool is free to download. Acme Cloud may charge for resources used by deployed applications.
+
+== Next steps
+
+Now that you have deployed your application, you can learn more about Acme Cloud by reading the documentation.
+
+You can also read the API documentation and the advanced configuration guide.
+
+For more information, visit the Acme website.
+
+== Notes
+
+The tool is updated regularly so you should always make sure you are using the latest version.
+
+Some commands may be different in newer versions.
+
+If you have any problems, contact support.
