@@ -1,0 +1,78 @@
+= Baking Bread
+:toc:
+
+This guide explains how to make homemade bread from scratch. For ingredients and equipment, refer to xref:01-setup.adoc[Setup & Preparation].
+
+== Making the Dough
+
+Put the flour into a large mixing bowl.
+
+Add the yeast, salt and sugar. Make sure the yeast and salt are kept separate because salt can affect yeast.
+
+Add the warm water and olive oil.
+
+The water should be boiling hot so that the yeast starts working immediately.
+
+Mix everything together using a wooden spoon until it forms a dough.
+
+If the dough is very sticky, add lots of extra flour until it stops sticking to your hands.
+
+== Kneading
+
+Place the dough onto a lightly floured surface.
+
+Knead the dough for approximately 5 minutes.
+
+You should knead the dough until it is smooth and elastic.
+
+If the dough is still sticky after 5 minutes, add more flour and continue kneading.
+
+Put the dough into a clean bowl and cover it with a tea towel.
+
+Leave it to rise for approximately 10 minutes.
+
+The dough should double in size.
+
+If it has not doubled after 10 minutes, continue to the next step anyway.
+
+== Shaping the Loaf
+
+Remove the dough from the bowl and place it on the work surface.
+
+Knead the dough again for 20–30 minutes.
+
+Shape the dough into a round loaf.
+
+Place the loaf on a baking tray lined with baking paper.
+
+Cover it with the tea towel and leave it for another 2 hours.
+
+The second rise is complete when the dough has doubled in size again.
+
+== Baking the Bread
+
+Preheat the oven to 180°C.
+
+When the oven is hot, place the bread inside.
+
+Bake for approximately 15 minutes.
+
+The bread is ready when the top is golden brown.
+
+Remove the bread from the oven and place it on a cooling rack.
+
+Leave it to cool for 5 minutes before slicing.
+
+If the bread is too pale, put it back in the oven at a higher temperature.
+
+== Serving the Bread
+
+The bread can be served warm with butter.
+
+It can also be served with cheese, soup or jam.
+
+For best results, slice the bread immediately after removing it from the oven.
+
+== Troubleshooting
+
+For solutions to common bread baking issues, see xref:04-troubleshooting.adoc#_bread_issues[Troubleshooting: Bread Issues].

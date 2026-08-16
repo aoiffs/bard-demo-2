@@ -1,0 +1,17 @@
+= Baking Guides: Bread and Apple Tart
+:toc:
+
+Welcome to our complete baking guides. Whether you're learning to bake homemade bread or a traditional apple tart, these guides are designed for beginners with simple, quick recipes.
+
+== Quick Navigation
+
+Choose the recipe you'd like to follow:
+
+* xref:01-setup.adoc[Setup & Preparation] — Start here for ingredients and equipment
+* xref:02-bread-guide.adoc[Baking Bread] — Complete guide to making homemade bread
+* xref:03-apple-tart-guide.adoc[Baking Apple Tart] — Complete guide to making apple tart
+* xref:04-troubleshooting.adoc[Troubleshooting] — Common issues and solutions
+
+== About These Guides
+
+Both recipes are simple, quick and suitable for beginners. The recipes in these guides make one loaf of bread and one apple tart. You can make both recipes at the same time because they use many of the same ingredients and equipment.
