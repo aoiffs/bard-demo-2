@@ -1,7 +1,7 @@
 = Apple Tart: A Beginner's Guide
 :toc:
 
-This guide explains how to make a traditional apple tart. The recipe is simple, quick and suitable for beginners. You can prepare and bake an apple tart in approximately 30 minutes.
+This guide explains how to make a traditional apple tart. The recipe is simple and suitable for beginners. You can prepare and bake an apple tart in approximately 1.5–2 hours, with most of the time being hands-off rising.
 
 == Before You Start
 
@@ -14,12 +14,15 @@ You should always use fresh ingredients where possible. Make sure the flour is s
 Bake the apple tart until the pastry is completely hard.
 The quicker you bake the recipe, the better the result.
 
+You will also need a sharp knife and cutting board for preparing the apples.
+
 === Ingredients
 
 ==== For the Apples
 
 * 4 large apples
 * 1 teaspoon cinnamon
+* 2 tablespoons caster sugar (for cooking)
 
 ==== For the Pastry
 
@@ -28,7 +31,7 @@ The quicker you bake the recipe, the better the result.
 * 100g caster sugar
 * 1 egg
 * 7g dried yeast
-* 200ml warm water
+* 200ml water at approximately 35–40°C (warm to the touch, not hot)
 * A pinch of salt
 
 === Equipment
@@ -55,9 +58,9 @@ Cut the apples into thin slices.
 
 Put the apple slices into a saucepan.
 
-Add the sugar and cinnamon.
+Add 2 tablespoons of caster sugar and the cinnamon.
 
-Cook the apples over a medium heat until they are soft.
+Cook the apples over a medium heat until they are soft (approximately 5–10 minutes).
 
 Do not cook them for too long because they will continue cooking in the oven.
 
@@ -71,7 +74,7 @@ Mix until the mixture resembles breadcrumbs.
 
 Add the sugar and egg.
 
-Add the 200ml of warm water and 7g of dried yeast.
+Add 200ml of water at approximately 35–40°C (warm to the touch, not hot) and 7g of dried yeast.
 
 Knead the mixture for 10 minutes until it forms a smooth dough.
 
@@ -81,7 +84,7 @@ If the dough is too wet, add more water.
 
 Cover the pastry and leave it somewhere warm for 30 minutes.
 
-The pastry should rise before you use it.
+The pastry should rise visibly (approximately 50% larger). If it hasn't risen after 30 minutes, check that your yeast is fresh and the room is warm enough (ideally 20–25°C). If the pastry still hasn't risen after 1 hour, your yeast may be expired.
 
 === Preparing the Tart
 
@@ -103,31 +106,31 @@ You can add extra cinnamon or sugar if you like.
 
 Place another layer of pastry over the apples if you want a covered tart.
 
+If using a top layer, seal the edges by pressing them together with a fork. Brush with beaten egg for a golden finish. Add steam holes to the top layer before baking. Note: covered tarts may require an extra 5 minutes baking time.
+
 Make several small holes in the top of the pastry to allow steam to escape.
 
 === Baking the Tart
 
-Preheat the oven to 180°C.
+Begin preheating your oven to 180°C approximately 15 minutes before assembling the tart (during or after the pastry rise).
 
 Place the tart in the oven.
 
-Bake for approximately 15 minutes.
+Bake for approximately 15–20 minutes.
 
-The tart is ready when the pastry is golden brown and the apples are soft.
+The tart is ready when the pastry is golden brown, firm to the touch, and the apples are soft. If the pastry is pale after 15 minutes, continue baking until golden.
 
 Remove the tart from the oven.
 
-Leave it to cool for 5 minutes.
+Leave it to cool for at least 15 minutes before slicing.
 
-The tart can be eaten immediately while it is still very hot.
+This allows the apples to set and makes slicing cleaner. The tart is still delicious served warm.
 
 == Troubleshooting
 
 === The Pastry Is Too Wet
 
-If the pastry is too wet, add more flour and continue kneading.
-
-If this does not work, add more flour.
+If the pastry is too wet, add more flour a little at a time and continue kneading until the dough becomes manageable. Next time, use slightly less water or add flour in smaller increments.
 
 === The Pastry Has Not Risen
 
@@ -137,9 +140,7 @@ If it does not rise, add another packet of yeast and leave it for another hour.
 
 === The Apples Are Too Hard
 
-If the apples are still hard after baking, increase the oven temperature to 220°C and bake for another 20 minutes.
-
-Check the tart regularly so that it does not burn.
+If the apples are still hard after baking, the issue is likely insufficient pre-cooking. Next time, cook the apples longer in the saucepan (5–10 minutes until very soft) before assembling the tart. For salvaging this tart: lower the oven to 160°C, cover the pastry loosely with foil to prevent burning, and bake for another 10 minutes.
 
 == Serving & Storage
 
@@ -161,7 +162,7 @@ The tart can also be frozen for up to one year.
 
 === Can I use fresh yeast?
 
-Yes. Fresh yeast can be substituted for dried yeast in the same quantity.
+Yes. Fresh yeast can be substituted for dried yeast in the same quantity. Both will work at the same rise time.
 
 === Can I make the apple tart without apples?
 
@@ -169,6 +170,6 @@ Yes. You can replace the apples with any fruit without changing the recipe.
 
 == Summary
 
-Making an apple tart is quick and easy and should take approximately 30 minutes from start to finish.
+Making an apple tart is simple and should take approximately 1.5–2 hours from start to finish, with most of the time being hands-off rising.
 
 If you follow the instructions carefully, you should have a delicious apple tart every time.
