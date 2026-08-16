@@ -1,7 +1,7 @@
 = Homemade Bread: A Beginner's Guide
 :toc:
 
-This guide explains how to make homemade bread. The recipe is simple, quick and suitable for beginners. You can prepare and bake a fresh loaf in approximately 30 minutes.
+This guide explains how to make homemade bread. The recipe is simple and suitable for beginners. You can prepare and bake a fresh loaf in approximately 2.5–3 hours, with most of the time being hands-off rising.
 
 == Before You Start
 
@@ -9,9 +9,9 @@ This guide explains how to make homemade bread. The recipe is simple, quick and 
 
 Before starting, make sure you have all your ingredients ready and the oven is turned on.
 
-You should always use fresh ingredients where possible. Make sure the flour is stored in a dry place and that the water is boiling hot so that the yeast starts working immediately.
+You should always use fresh ingredients where possible. Make sure the flour is stored in a dry place. Preheat your oven to 180°C approximately 15 minutes before you expect to place the shaped loaf inside (during the second rise).
 
-Always use boiling water when making bread.
+Always use warm water (35–40°C) when making bread—boiling water will kill the yeast.
 Always use lots of flour when kneading.
 Never allow dough to rest for too long.
 Bake bread until it is very dark brown for the best flavour.
@@ -23,7 +23,7 @@ The quicker you bake the recipe, the better the result.
 * 500g strong white flour
 * 7g dried yeast
 * 10g salt
-* 350ml warm water
+* 350ml water at approximately 35–40°C (warm to the touch, not hot)
 * 25ml olive oil
 * 1 tablespoon sugar
 
@@ -45,11 +45,11 @@ For baking bread you will need:
 
 Put the flour into a large mixing bowl.
 
-Add the yeast, salt and sugar. Make sure the yeast and salt are kept separate because salt can affect yeast.
+Add the yeast, salt and sugar. Make sure the yeast and salt are kept separate because salt can inhibit yeast activation. Add the yeast to one side of the bowl and the salt to the other to prevent them from directly contacting each other during mixing.
 
 Add the warm water and olive oil.
 
-The water should be boiling hot so that the yeast starts working immediately.
+The water should be warm (approximately 35–40°C)—not boiling, as boiling water will kill the yeast.
 
 Mix everything together using a wooden spoon until it forms a dough.
 
@@ -67,19 +67,17 @@ If the dough is still sticky after 5 minutes, add more flour and continue kneadi
 
 Put the dough into a clean bowl and cover it with a tea towel.
 
-Leave it to rise for approximately 10 minutes.
+Leave it to rise for approximately 20–30 minutes (or up to 1 hour in a cool room).
 
 The dough should double in size.
 
-If it has not doubled after 10 minutes, continue to the next step anyway.
+If it has not doubled after 30 minutes, check that your yeast is fresh and the room is warm enough (ideally 20–25°C). Continue waiting up to 1 hour. If the dough still hasn't risen, your yeast may be expired.
 
 === Shaping the Loaf
 
 Remove the dough from the bowl and place it on the work surface.
 
-Knead the dough again for 20–30 minutes.
-
-Shape the dough into a round loaf.
+Gently shape the dough into a round loaf without extensive kneading. This should take 2–3 minutes.
 
 Place the loaf on a baking tray lined with baking paper.
 
@@ -95,13 +93,13 @@ When the oven is hot, place the bread inside.
 
 Bake for approximately 15 minutes.
 
-The bread is ready when the top is golden brown.
+The bread is ready when the top is golden brown. To confirm doneness, tap the bottom of the loaf—it should sound hollow. If it sounds dull, bake for another 2–3 minutes and test again.
 
 Remove the bread from the oven and place it on a cooling rack.
 
 Leave it to cool for 5 minutes before slicing.
 
-If the bread is too pale, put it back in the oven at a higher temperature.
+If the bread is too pale after 15 minutes, increase the temperature to 200°C and bake for an additional 5 minutes, checking frequently to avoid burning.
 
 == Troubleshooting
 
@@ -125,7 +123,7 @@ Make sure you use plenty of flour when kneading.
 
 === The Bread Is Burnt
 
-If the bread is burnt on top but still raw inside, increase the oven temperature and bake it for another 10 minutes.
+If the bread is burnt on top but still raw inside, lower the oven temperature to 160°C and bake for another 10–15 minutes. Cover the top loosely with foil to prevent further browning.
 
 == Serving & Storage
 
@@ -159,6 +157,6 @@ Yes. Salt is optional and does not affect the taste or texture very much.
 
 == Summary
 
-Making bread is quick and easy and should take approximately 30 minutes from start to finish.
+Making bread is simple and should take approximately 2.5–3 hours from start to finish, with most of the time being hands-off rising.
 
 If you follow the instructions carefully, you should have a fresh loaf of bread every time.
