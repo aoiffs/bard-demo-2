@@ -1,7 +1,7 @@
 = Baking Guide: Bread & Apple Tart
 :toc: preamble
 
-A collection of beginner-friendly recipes for homemade bread and traditional apple tart. Both recipes take approximately 30 minutes from start to finish and use simple, common ingredients.
+A collection of beginner-friendly recipes for homemade bread and traditional apple tart. Both recipes use simple, common ingredients and can be completed in a single afternoon (see individual recipes for specific timing).
 
 == Quick Links
 
@@ -21,7 +21,7 @@ If your bread or tart is cooking too quickly on the outside or too slowly inside
 Both recipes use dried yeast as a leavening agent. Key principles:
 
 * Always use fresh yeast—check the expiration date before starting
-* Salt can inhibit yeast activation, so keep them separate when mixing
+* Salt can inhibit yeast fermentation, so keep them separate when mixing
 * Rising times depend on room temperature. Warm environments (20–25°C) produce faster rises; cool environments may require extra time
 * A general rule: dough or pastry has risen enough when it has doubled in size
 
