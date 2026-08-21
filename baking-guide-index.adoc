@@ -1,0 +1,53 @@
+= Baking Guide: Bread & Apple Tart
+:toc: preamble
+
+A collection of beginner-friendly recipes for homemade bread and traditional apple tart. Both recipes use simple, common ingredients and can be completed in a single afternoon (see individual recipes for specific timing).
+
+== Quick Links
+
+* xref:bread.adoc[Homemade Bread: A Beginner's Guide]
+* xref:apple-tart.adoc[Apple Tart: A Beginner's Guide]
+
+== Shared Baking Concepts
+
+=== Oven Temperatures
+
+Both recipes use a standard oven temperature of 180°C. Ensure your oven is fully preheated before placing recipes inside.
+
+If your bread or tart is cooking too quickly on the outside or too slowly inside, you can adjust the oven temperature up or down by 10–20°C increments.
+
+=== Yeast & Rising Times
+
+Both recipes use dried yeast as a leavening agent. Key principles:
+
+* Always use fresh yeast—check the expiration date before starting
+* Salt can inhibit yeast fermentation, so keep them separate when mixing
+* Rising times depend on room temperature. Warm environments (20–25°C) produce faster rises; cool environments may require extra time
+* A general rule: dough or pastry has risen enough when it has doubled in size
+
+If your dough or pastry does not rise as expected:
+* Check that your yeast is fresh
+* Move the dough to a warmer location
+* Add a small amount of fresh yeast and wait another 10–30 minutes
+
+=== Cooling & Storage Best Practices
+
+* Always allow baked goods to cool on a cooling rack to prevent steam from creating a soggy base
+* Cool for at least 5 minutes before slicing or serving
+* Store baked bread and tart in separate containers to preserve texture
+* Both items can be frozen for up to one year
+
+=== General Flour & Ingredient Handling
+
+* Store flour in a dry place away from moisture and direct sunlight
+* Use butter that is soft enough to mix easily (room temperature)
+* Keep all ingredients at room temperature unless otherwise specified
+* Measure ingredients carefully—baking is precise and small changes can affect results
+
+== Cleaning Up
+
+Clean all equipment with warm water and soap after use.
+
+Do not leave flour on the work surface because it can attract insects.
+
+Make sure the oven is switched off when you have finished baking.
